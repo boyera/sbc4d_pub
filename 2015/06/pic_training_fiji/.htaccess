@@ -1,0 +1,6 @@
+# Do not allow directory index
+Options +Indexes
+
+
+
+
