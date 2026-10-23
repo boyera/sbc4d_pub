@@ -1,0 +1,40 @@
+body:before {
+   font-size: 1.5em;
+   color: silver;
+   padding: 133px;
+font-family: serif;
+}
+
+body {
+ margin: 2em 1em 2em 100px;
+ font-family: sans-serif;
+ color: black;
+ background-color: white;
+ background-position: top left;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+}
+
+
+
+img { border-width:0 }
+
+h1, h2, h3, h4, h5 {
+ text-align: left;
+ font-family: sans-serif;
+ font-weight: normal;
+ color: #005a9c;
+ margin-left: 0
+}
+
+h2 { background-color: silver ; }
+
+blockquote { margin-left: 1em }
+
+div.head p { margin-left: 0 }	  
+
+.first { margin: 3em 4em 2em 3em}
+
+#core { width:75% }
+p { clear: left }
+
